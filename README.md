@@ -27,18 +27,6 @@ Las farmacias pequeñas suelen llevar el control de medicamentos y ventas de for
 - JavaScript (Vanilla)
 - Persistencia en `localStorage` del navegador (prototipo sin backend)
 
-## Instalación y ejecución
-
-No requiere instalación de dependencias.
-
-1. Clonar el repositorio:
-   ```bash
-   git clone <url-del-repositorio>
-   ```
-2. Entrar a la carpeta `/prototipo`.
-3. Abrir el archivo `index.html` en el navegador (doble clic, o clic derecho → "Abrir con" → navegador de su preferencia).
-
-El prototipo carga datos de ejemplo (empleados y medicamentos) la primera vez que se ejecuta.
 
 ## Integrantes
 
